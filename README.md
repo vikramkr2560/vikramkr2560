@@ -1,10 +1,10 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=94DEFF&center=true&vCenter=true&width=500&lines=I'm+Vikram+Kumar;Software+Engineer;Full-Stack+Developer;Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=94DEFF&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Vikram+Kumar+👋;Data+Science+Student;Java+%26+DSA+Enthusiast;Full-Stack+Developer" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <samp>
-    B.Tech CSE (Data Science) @ Haldia Institute of Technology, West Bengal (YSPA: 8.29)
+    🎓 B.Tech CSE (Data Science) @ Haldia Institute of Technology, West Bengal (YSPA: 8.29)
   </samp>
 </p>
 
@@ -16,11 +16,11 @@
 
 ---
 
-## ⚡ Quick Bytes
+## 🚀 About Me
 
-* 🚀 **Building:** Currently crafting my digital presence via [vikram-portfolio](https://github.com/vikramkr2560/vikram-portfolio).
-* 🎯 **Focus:** Deep diving into Data Structures, Algorithms, and scalable Web Architecture.
-* 💡 **Vision:** Combining the power of Data Science insights with Software Engineering precision.
+* 🧠 Practicing **Data Structures & Algorithms with Java** & core problem solving.
+* 🌐 Building web applications using **React.js, JavaScript, HTML & CSS**.
+* ⚡ Blending **Data Science** insights with scalable **Full-Stack Development**.
 
 ---
 
@@ -28,28 +28,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react,git,github,vscode&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,python,c,javascript,html,css,react,git,github,vscode&theme=dark" />
   </a>
 </p>
 
 ---
 
-## 📈 Engineering Metrics
+## 📌 Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramkr2560&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Vikram's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramkr2560&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramkr2560&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+### 🌐 [Vikram Portfolio](https://github.com/vikramkr2560/vikram-portfolio)
+My interactive personal portfolio showcasing my journey, core skills, and engineering projects.
 
 ---
 
-<p align="center">
-  <samp>
-    Let's build something impactful. Connect with me on 
-    <a href="https://www.linkedin.com/in/vikramkr2560">LinkedIn</a> or drop an <a href="mailto:vikramkr2560@gmail.com">email</a>.
-  </samp>
-</p>
+## 🌱 Learning Roadmap
+
+```text
+Java + DSA  ➔  Problem Solving  ➔  Web Dev (React.js)  ➔  Data Science Projects 🚀
