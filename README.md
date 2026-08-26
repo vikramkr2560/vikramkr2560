@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=94DEFF&center=true&vCenter=true&width=500&lines=I'm+Vikram+Kumar;Software+Engineer;Full-Stack+Developer;Data+Scientist+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=94DEFF&center=true&vCenter=true&width=500&lines=I'm+Vikram+Kumar;Software+Engineer;Full-Stack+Developer;Data+Scientist" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,17 +14,17 @@
   <a href="mailto:vikramkr2560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<hr />
+---
 
-## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/heartbeat.gif" height="30px" align="center" /> ⚡ Quick Bytes
+## ⚡ Quick Bytes
 
 * 🚀 **Building:** Currently crafting my digital presence via [vikram-portfolio](https://github.com/vikramkr2560/vikram-portfolio).
 * 🎯 **Focus:** Deep diving into Data Structures, Algorithms, and scalable Web Architecture.
 * 💡 **Vision:** Combining the power of Data Science insights with Software Engineering precision.
 
-<hr />
+---
 
-## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/laptop.gif" height="30px" align="center" /> 💡 Tech Ecosystem
+## 💡 Tech Ecosystem
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -32,9 +32,9 @@
   </a>
 </p>
 
-<hr />
+---
 
-## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/charts.gif" height="30px" align="center" /> 📈 Engineering Metrics
+## 📈 Engineering Metrics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vikramkr2560&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Vikram's GitHub Stats" />
@@ -45,7 +45,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramkr2560&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<hr />
+---
 
 <p align="center">
   <samp>
