@@ -78,27 +78,6 @@ My personal portfolio website showcasing my profile, skills, projects and journe
 
 ---
 
-## 🎯 Current Goals
-
-* 📚 Strengthen **Data Structures & Algorithms**
-* ☕ Become strong in **Java**
-* 🌐 Build modern **Full-Stack Web Applications**
-* 🐍 Improve **Python & Data Science** skills
-* 🚀 Build more real-world projects
-* 💼 Prepare for **software development internships**
-* 🧩 Become a strong **problem solver**
-* 📈 Maintain and improve my academic performance
-
----
-
-## 🏆 Academic Highlight
-
-### 📚 YSPA / CGPA: **8.29**
-
-Currently pursuing my B.Tech in **Computer Science & Engineering (Data Science)** at **Haldia Institute of Technology, West Bengal**.
-
----
-
 ## 🌱 What I'm Learning
 
 ```text
