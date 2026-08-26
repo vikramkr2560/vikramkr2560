@@ -7,7 +7,7 @@
 📚 **3rd Semester**
 📊 **YSPA/CGPA: 8.29**
 
-I'm a passionate Computer Science student interested in **software development, Data Science, web technologies, and problem solving**. I enjoy learning new technologies, building projects, and continuously improving my programming skills.
+
 
 ---
 
@@ -15,11 +15,10 @@ I'm a passionate Computer Science student interested in **software development, 
 
 * 🎓 Currently pursuing **B.Tech CSE (Data Science)**
 * 🧠 Practicing **Data Structures & Algorithms with Java**
-* ☕ Learning and improving **Java & Python**
+* ☕ Learning and improving **Java & React.js**
 * 🌐 Building websites using **HTML, CSS, JavaScript & React.js**
 * ⚡ Interested in **Full-Stack Development and Data Science**
-* 💡 Improving my problem-solving and coding skills
-* 📈 Currently focused on building strong fundamentals and real-world projects
+
 
 ---
 
