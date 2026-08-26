@@ -1,135 +1,55 @@
-# 👋 Hi, I'm Vikram Kumar
-
-### 💻 CSE (Data Science) Student | Java & DSA | Full-Stack Development | Problem Solver
-
-🎓 **B.Tech in Computer Science & Engineering (Data Science)**
-🏫 **Haldia Institute of Technology, West Bengal**
-📚 **3rd Semester**
-📊 **YSPA/CGPA: 8.29**
-
-
-
----
-
-## 🚀 About Me
-
-* 🎓 Currently pursuing **B.Tech CSE (Data Science)**
-* 🧠 Practicing **Data Structures & Algorithms with Java**
-* ☕ Learning and improving **Java & React.js**
-* 🌐 Building websites using **HTML, CSS, JavaScript & React.js**
-* ⚡ Interested in **Full-Stack Development and Data Science**
-
-
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-
-### 🌐 Web Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-
-### 🧠 Computer Science
-
-![DSA](https://img.shields.io/badge/DSA-Java-orange?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Active-success?style=for-the-badge)
-![Data Science](https://img.shields.io/badge/Data%20Science-Learning-blue?style=for-the-badge)
-
-### 🔧 Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-
----
-
-## 📌 Featured Project
-
-### 🌐 [Vikram Portfolio](https://github.com/vikramkr2560/vikram-portfolio)
-
-My personal portfolio website showcasing my profile, skills, projects and journey as a CSE (Data Science) student.
-
-**Tech Used:** HTML, CSS and Web Technologies
-
----
-
-## 📊 GitHub Analytics
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=36&pause=1000&color=94DEFF&center=true&vCenter=true&width=500&lines=I'm+Vikram+Kumar;Software+Engineer;Full-Stack+Developer;Data+Scientist+Enthusiast" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vikramkr2560&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramkr2560&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <samp>
+    B.Tech CSE (Data Science) @ Haldia Institute of Technology, West Bengal (YSPA: 8.29)
+  </samp>
 </p>
-
----
-
-## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=vikramkr2560&theme=tokyonight&hide_border=true" />
+  <a href="https://www.linkedin.com/in/vikramkr2560"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/vikramkr2560/vikram-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:vikramkr2560@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
+<hr />
 
-## 🌱 What I'm Learning
+## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/heartbeat.gif" height="30px" align="center" /> ⚡ Quick Bytes
 
-```text
-Java + DSA
-      ↓
-Problem Solving
-      ↓
-Web Development
-      ↓
-React.js
-      ↓
-Full-Stack Development
-      ↓
-Data Science
-      ↓
-Real-World Projects 🚀
-```
+* 🚀 **Building:** Currently crafting my digital presence via [vikram-portfolio](https://github.com/vikramkr2560/vikram-portfolio).
+* 🎯 **Focus:** Deep diving into Data Structures, Algorithms, and scalable Web Architecture.
+* 💡 **Vision:** Combining the power of Data Science insights with Software Engineering precision.
 
----
+<hr />
 
-## 💼 Career Vision
+## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/laptop.gif" height="30px" align="center" /> 💡 Tech Ecosystem
 
-> **To become a skilled Software Engineer who combines strong DSA and problem-solving fundamentals with Full-Stack Development and Data Science to build useful, scalable and real-world applications.**
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/vikramkr2560">
-    <img src="https://img.shields.io/badge/GitHub-vikramkr2560-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/vikramkr2560">
-    <img src="https://img.shields.io/badge/LinkedIn-Vikram%20Kumar-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:vikramkr2560@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vikramkr2560%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,java,javascript,html,css,react,git,github,vscode&theme=dark" />
   </a>
 </p>
 
----
+<hr />
 
-## ⚡ Fun Fact
-
-> **Learning one concept, solving one problem, and building one project at a time. 🚀**
-
----
+## <img src="https://raw.githubusercontent.com/MartinVerreault/MartinVerreault/master/assets/charts.gif" height="30px" align="center" /> 📈 Engineering Metrics
 
 <p align="center">
-  <b>⭐ If you find my projects useful, consider giving them a star!</b>
+  <img src="https://github-readme-stats.vercel.app/api?username=vikramkr2560&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" alt="Vikram's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikramkr2560&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <i>Thanks for visiting my profile! 👋</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramkr2560&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<hr />
+
+<p align="center">
+  <samp>
+    Let's build something impactful. Connect with me on 
+    <a href="https://www.linkedin.com/in/vikramkr2560">LinkedIn</a> or drop an <a href="mailto:vikramkr2560@gmail.com">email</a>.
+  </samp>
 </p>
